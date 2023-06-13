@@ -1,6 +1,7 @@
 # vue3-vite-ckeditor5
 
-<img width="1000" alt="preview" src="https://github.com/a-ryang/vue3-vite-ckeditor5/assets/105474635/8d669b45-5f3f-4c91-8686-e473708d9331">
+<img width="1392" alt="preview" src="https://github.com/a-ryang/vue3-vite-ckeditor5/assets/105474635/2ebda73e-8aac-494a-a036-60f012d8c534">
+
 
 simple `vue3` + `vite` + `typescript` + `ckeditor5` example 
 
@@ -10,6 +11,7 @@ simple `vue3` + `vite` + `typescript` + `ckeditor5` example
 > https://ckeditor.com/docs/ckeditor5/latest/installation/integrations/vuejs-v3.html
 
 check following :
+
 
 - [vite.config.ts](https://github.com/a-ryang/vue3-vite-ckeditor5/blob/main/vite.config.ts)
 
